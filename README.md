@@ -14,5 +14,5 @@
 <h3>Helpdesk</h3>
 <p>list of cybersecurity projects</p>
 
-<h3>Certificates</h3>
+<h2>Certificates</h2>
 <p>links or img for the certificates</p>
