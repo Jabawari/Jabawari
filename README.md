@@ -15,4 +15,5 @@
 <p>list of cybersecurity projects</p>
 
 <h2>Certificates</h2>
-<p>links or img for the certificates</p>
+<h3>ECE COUNCIL</h3>
+![image alt]()
