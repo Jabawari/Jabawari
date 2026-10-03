@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1> :rocket: My Profile</h1>
+<p>the objective from the resume</p>
 
-<!--
-**Jabawari/Jabawari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My projects</h2>
+<h3>Cybersecurity</h3>
+<p>list of cybersecurity projects</p>
 
-Here are some ideas to get you started:
+<h3>Networking</h3>
+<p>list of cybersecurity projects</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Programming</h3>
+<p>list of cybersecurity projects</p>
+
+<h3>Helpdesk</h3>
+<p>list of cybersecurity projects</p>
