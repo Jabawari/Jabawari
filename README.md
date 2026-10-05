@@ -15,5 +15,5 @@
 <p>list of cybersecurity projects</p>
 
 <h2>Certificates</h2> <!--PDF cannot be displayed as an image here, make sure that the file is a JPG-->
-<a href = "https://github.com/Jabawari/Jabawari/blob/c6d848255284b3e9ffff77097de707478534d01e/ECC-EHE-Certificate.pdf">Ethical Hacking Essentials (EHE) | EC-COUNCIL</a>
+<a href = "https://github.com/Jabawari/Jabawari/blob/10e9b1dec047b2ca361c781d32af8b08bc90a689/image_2026-10-05_230949609.png">Ethical Hacking Essentials (EHE) | EC-COUNCIL</a>
 
