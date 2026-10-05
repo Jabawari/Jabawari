@@ -16,3 +16,4 @@
 
 <h2>Certificates</h2>
 <a href = "https://github.com/Jabawari/Jabawari/blob/c6d848255284b3e9ffff77097de707478534d01e/ECC-EHE-Certificate.pdf">Ethical Hacking Essentials (EHE) | EC-COUNCIL</a>
+<img src ="https://github.com/Jabawari/Jabawari/blob/c6d848255284b3e9ffff77097de707478534d01e/ECC-EHE-Certificate.pdf">
