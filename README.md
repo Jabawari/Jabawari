@@ -3,7 +3,7 @@
 
 <h2>My Projects & Activities </h2>
 <h3>Cybersecurity</h3>
-<p>list of cybersecurity projects</p>
+<a href = "https://github.com/Jabawari/Wireshark_Project1/blob/2aa0a0d910146afa54e68dabd151aba7badab1f5/README.md">Traffic Analysis Exercise</a>
 
 <h3>Networking</h3>
 <p>list of cybersecurity projects</p>
