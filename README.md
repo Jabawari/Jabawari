@@ -3,7 +3,7 @@
 
 <h2>My Projects & Exercises </h2>
 <h3>Cybersecurity</h3>
-<a href = "https://github.com/Jabawari/Wireshark_Project1/blob/2aa0a0d910146afa54e68dabd151aba7badab1f5/README.md">Exercise: Traffic Analysis</a>
+<a href = "https://github.com/Jabawari/Wireshark_Project1/blob/098962255c27705581e619f9c77929bcf104efdb/README.md">Exercise: Traffic Analysis</a>
 
 <h3>Networking</h3>
 <p>Projects in progress</p>
