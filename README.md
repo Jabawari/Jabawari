@@ -2,11 +2,11 @@
 <p>A hardworking, responsible, and motivated individual seeking my first employment opportunity where I can apply my knowledge and skills, gain valuable experience, and contribute positively to the company. I am willing to learn, adaptable, and committed to performing my responsibilities with dedication and professionalism.</p>
 
 <h2>My Projects & Exercises </h2>
-<h3>Cybersecurity</h3>
+<h3>Cybersecurity & Networking</h3>
 <a href = "https://github.com/Jabawari/Wireshark_Project1/blob/098962255c27705581e619f9c77929bcf104efdb/README.md">Exercise: Traffic Analysis</a>
 
-<h3>Networking</h3>
-<p>Projects in progress</p>
+<h3>Helpdesk</h3>
+<a href = "https://github.com/Jabawari/Week1_help/blob/9b183f67006dbc51aa52e4b306b62469de49825c/README.md">Exercise: Week 1 Helpdesk Practice</a>
 
 <h3>Programming</h3>
 <p>Projects in progress</p>
