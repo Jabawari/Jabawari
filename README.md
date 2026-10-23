@@ -6,8 +6,10 @@
 <a href = "https://github.com/Jabawari/Wireshark_Project1/blob/098962255c27705581e619f9c77929bcf104efdb/README.md">Exercise: Traffic Analysis</a>
 
 <h3>Helpdesk</h3>
-<a href = "https://github.com/Jabawari/Week1_help/blob/9b183f67006dbc51aa52e4b306b62469de49825c/README.md">Exercise: Week 1 Helpdesk Practice</a>
-
+<a href = "https://github.com/Jabawari/Week1_help/blob/9b183f67006dbc51aa52e4b306b62469de49825c/README.md">Exercise: Week 1 Helpdesk Practice</a> 
+<br>
+<a href = "https://github.com/Jabawari/Week2_help/blob/2a4f19dc12e9b54eff3b2448fade0bf32857beb8/README.md">Exercise: Week 2 Helpdesk Practice</a>
+ 
 <h3>Programming</h3>
 <p>Projects in progress</p>
 
