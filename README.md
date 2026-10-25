@@ -19,3 +19,8 @@
 <h2>Certificates</h2> <!--PDF cannot be displayed as an image here, make sure that the file is a JPG-->
 <a href = "https://github.com/Jabawari/Jabawari/blob/10e9b1dec047b2ca361c781d32af8b08bc90a689/image_2026-10-05_230949609.png">Ethical Hacking Essentials (EHE) | EC-COUNCIL</a>
 
+<a href = "https://github.com/Jabawari/Jabawari/blob/7ca4739ceb09a8e8a6ddfced84f86365360dbada/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20251017-30-torgc0.jpg">AWS Academy Graduate - Cloud Foundations - Training Badge</a>
+
+<a href = "https://github.com/Jabawari/Jabawari/blob/7ca4739ceb09a8e8a6ddfced84f86365360dbada/RedHat_Certificate_Advincula.jpg">Red Hat System Administration | (RH124 - RHA) - Ver. 9.3</a>
+
+<a href = "https://github.com/Jabawari/Jabawari/blob/7ca4739ceb09a8e8a6ddfced84f86365360dbada/micro_ai_funda_advincula.jpg">Microsoft Certified | Azure AI Fundamentals </a>
