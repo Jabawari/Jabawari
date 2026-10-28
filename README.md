@@ -9,6 +9,8 @@
 <a href = "https://github.com/Jabawari/Week1_help/blob/9b183f67006dbc51aa52e4b306b62469de49825c/README.md">Exercise: Week 1 Helpdesk Practice</a> 
 <br>
 <a href = "https://github.com/Jabawari/Week2_help/blob/2a4f19dc12e9b54eff3b2448fade0bf32857beb8/README.md">Exercise: Week 2 Helpdesk Practice</a>
+<br>
+<a href = "https://github.com/Jabawari/Week3_help/blob/78acb3f43c6b11c49afbb680f39a315ac4fb7118/README.md"> Exercise: Week 3 Helpdesk Practice</a>
  
 <h3>Programming</h3>
 <p>Projects in progress</p>
