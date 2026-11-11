@@ -4,6 +4,8 @@
 <h2>My Projects & Exercises </h2> <!--START OF PROJECTS -->
 <h3>Cybersecurity & Networking</h3>
 <a href = "https://github.com/Jabawari/Wireshark_Project1/blob/098962255c27705581e619f9c77929bcf104efdb/README.md">Exercise: Traffic Analysis</a>
+<br>
+<a href = "https://github.com/Jabawari/networking_exer1/blob/a3a4704179c592c763afdf649bb48b95aeb5e121/README.md">Exercise: Creating VLAN</a>
 
 <h3>Helpdesk</h3>
 <a href = "https://github.com/Jabawari/Week1_help/blob/9b183f67006dbc51aa52e4b306b62469de49825c/README.md">Exercise: Week 1 Helpdesk Practice</a> 
