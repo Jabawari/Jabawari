@@ -15,6 +15,8 @@
 <a href = "https://github.com/Jabawari/Week3_help/blob/78acb3f43c6b11c49afbb680f39a315ac4fb7118/README.md"> Exercise: Week 3 Helpdesk Practice</a>
 <br>
 <a href = "https://github.com/Jabawari/Week4_help/blob/96ebcc2feffab36c16515db68e3000b283898314/README.md">Exercise: Week 4 Helpdesk Practice</a>
+<br>
+<a href = "https://github.com/Jabawari/Week5_help/blob/346b4c5a8a226fcbf7a1292013307f543ddd8ca0/README.md">Exercise: Week 5 Helpdesk Practice</a>
  
 <h3>Programming</h3>
 <p>Projects in progress</p>
