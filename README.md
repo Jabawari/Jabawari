@@ -32,3 +32,4 @@
 <a href = "https://github.com/Jabawari/Jabawari/blob/7ca4739ceb09a8e8a6ddfced84f86365360dbada/micro_ai_funda_advincula.jpg">Microsoft Certified | Azure AI Fundamentals </a>
 
 <h2>Hobbies</h2> <!--START OF HOBBIES-->
+<a href = "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F_u%2Ffreehand_goat%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFTM3FIenQxN2dLSmUwVzIyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHwOHIfSXHwvkymAcXcql0KmP0d7oQerIo8Z6JkUReVgmazRnRFrmk5qFdNIg_aem_WJ-ro84g6_cmRcflmhYIXg&h=AUBhhYkn47igOUmvS4OWmn8gO_qbRXWLY4KfVSGOhEahD8d_22j28AMPgQCvsNrQl_qtLPwA44Jd0o_N_uXyY1X9l9tDn9TkFws_s1FGl4cd_0N6hhKy18K6xV-XbTck">Traditional drawing</a>
