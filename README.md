@@ -19,7 +19,7 @@
 <a href = "https://github.com/Jabawari/Week5_help/blob/346b4c5a8a226fcbf7a1292013307f543ddd8ca0/README.md">Exercise: Week 5 Helpdesk Practice</a>
  
 <h3>Programming</h3>
-<p>Projects in progress</p>
+<a href = "https://github.com/Jabawari/School_java_exer/blob/70ab7ed23caf40730320b43e4a8806f86e98be95/README.md">Java Homework, Laboratory, and Projects during College</a>
 
 <h3>SQL</h3>
 <p>Projects in progrss</p>
