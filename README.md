@@ -17,6 +17,8 @@
 <a href = "https://github.com/Jabawari/Week4_help/blob/96ebcc2feffab36c16515db68e3000b283898314/README.md">Exercise: Week 4 Helpdesk Practice</a>
 <br>
 <a href = "https://github.com/Jabawari/Week5_help/blob/346b4c5a8a226fcbf7a1292013307f543ddd8ca0/README.md">Exercise: Week 5 Helpdesk Practice</a>
+<br>
+<a href = "https://github.com/Jabawari/week6_help/blob/5f32ebfbf83add9bac8f09cdcd0b455f7b4d27e5/README.md">Exercise: Week 6 Helpdesk Practice</a>
  
 <h3>Programming</h3>
 <a href = "https://github.com/Jabawari/School_java_exer/blob/70ab7ed23caf40730320b43e4a8806f86e98be95/README.md">Java Homework, Laboratory, and Projects during College</a>
